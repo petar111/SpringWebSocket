@@ -1,0 +1,2 @@
+This is example of xml configuration! In this project we will use configuration based on java classes and annotations. To use this config
+just move everything form folder sample to root of WEB-INF
